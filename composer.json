@@ -1,0 +1,16 @@
+{
+    "name": "zetaphor/php-sql-base",
+    "require": {
+        "aura/sqlquery": "^2.6",
+        "aura/sql": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Gary Daigle",
+            "email": "zetaphor@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "raveren/kint": "^1.0"
+    }
+}
